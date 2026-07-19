@@ -65,6 +65,3 @@ Admin can manage products using CRUD operations.
 - View Products
 - Update Products
 - Delete Products
-
-
-## Project Structure
